@@ -1,7 +1,7 @@
 <img src="github-header-image (1).png"></img><br/>
 ====================================================================================================================================
 
-             <h3 style="display: block; text-align: center">Full Stack Developer | Platform Engineer | Systems Engineer</h3>
+<h3 style="display: block; text-align: center">Full Stack Developer | Platform Engineer | Systems Engineer</h3>
  
 -----------------------------------------------------------
 
