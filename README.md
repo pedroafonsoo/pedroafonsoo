@@ -1,12 +1,16 @@
-<img src="github-header-image (1).png"></img><br/>
-====================================================================================================================================
+<p align="center">
+<img src="github-header-image (1).png"></img>
+</p>
+
 
 <h3 style="display: block; text-align: center">Full Stack Developer | Platform Engineer | Systems Engineer</h3>
  
 -----------------------------------------------------------
-<p style="text-align:center;">
-<img src="avatar_pedro.png">
-</p>
+
+
+<p align="center">
+  <img src="avatar_pedro.png" >
+</p> </br>
 
 ### 🚀 About Me <br>
 Hello, I'm Pedro and i consider myself a tech person. I'm a sociable and a happy person , but I also know how to be focused when necessary. I am dedicated to my goals and always strive for excellence in everything I do. Whether at work or in personal projects, I am always ready for new challenges and learning opportunities. 
