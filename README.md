@@ -4,8 +4,9 @@
 <h3 style="display: block; text-align: center">Full Stack Developer | Platform Engineer | Systems Engineer</h3>
  
 -----------------------------------------------------------
-
-<img src="avatar_pedro.png" style="display: block; margin: auto;"></img><br/>
+<p style="text-align:center;">
+<img src="avatar_pedro.png">
+</p>
 
 ### 🚀 About Me <br>
 Hello, I'm Pedro and i consider myself a tech person. I'm a sociable and a happy person , but I also know how to be focused when necessary. I am dedicated to my goals and always strive for excellence in everything I do. Whether at work or in personal projects, I am always ready for new challenges and learning opportunities. 
